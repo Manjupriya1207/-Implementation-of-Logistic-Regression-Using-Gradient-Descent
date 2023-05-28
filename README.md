@@ -122,6 +122,7 @@ np.mean(predict(res.x,X)==y)
 ![Screenshot (16)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/9d41d30c-3de6-4a61-90e5-ecc2fc1c51a6)
 4.Sigmoid graph :
 ![Screenshot (17)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/e7ce2d86-e0d2-4470-b67c-1c2284cba4cc)
+
 5.J and grad value with array[0,0,0] :
 ![Screenshot (18)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/183b5f12-9fac-4183-829b-a85b0b9ee5ba)
 6.J and grad value with array[-24,0.2,0.2] :
