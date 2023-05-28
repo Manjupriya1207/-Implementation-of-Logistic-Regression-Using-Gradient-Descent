@@ -132,7 +132,11 @@ np.mean(predict(res.x,X)==y)
 8.Decision Boundary graph :
 ![Screenshot (21)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/404970a0-cacc-48c3-a5c7-30db5893fa3d)
 9.probability value :
+
+
 ![Screenshot (22)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/2c1bac57-410b-484f-a002-2768b4e08c12)
+
+
 
 10.Mean prediction value :
 ![Screenshot (23)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/22179a38-f6f0-4fa9-81b7-bc4bea754aad)
