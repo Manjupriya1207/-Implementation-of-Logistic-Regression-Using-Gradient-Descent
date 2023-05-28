@@ -114,16 +114,26 @@ np.mean(predict(res.x,X)==y)
 
 
 ## Output:
-![1.Array value of x :](![Screenshot (14)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/2cab77f5-55c7-4cbe-be61-b9a89fe19c64))
-![2.Array value of y :](![Screenshot (15)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/b7c67afc-9dfe-460a-8189-2caeaa2199d2)
-![3.Exam 1 & 2 score graph :](![Screenshot (16)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/9d41d30c-3de6-4a61-90e5-ecc2fc1c51a6)
-![4.Sigmoid graph :]![Screenshot (17)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/e7ce2d86-e0d2-4470-b67c-1c2284cba4cc)
-![5.J and grad value with array[0,0,0] :]![Screenshot (18)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/183b5f12-9fac-4183-829b-a85b0b9ee5ba)
-![6.J and grad value with array[-24,0.2,0.2] :]![Screenshot (19)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/a56706e3-a938-413f-a268-06bf82b030b8)
-![7.res.function & res.x value :]![Screenshot (20)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/cb6692a2-3cc5-4e0f-aea6-2b4495c13366)
-![8.Decision Boundary graph :]![Screenshot (21)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/404970a0-cacc-48c3-a5c7-30db5893fa3d)
-![9.probability value :]![Screenshot (22)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/2c1bac57-410b-484f-a002-2768b4e08c12)
-![10.Mean prediction value :]![Screenshot (23)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/22179a38-f6f0-4fa9-81b7-bc4bea754aad)
+1.Array value of x :
+![Screenshot (14)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/2cab77f5-55c7-4cbe-be61-b9a89fe19c64))
+2.Array value of y :
+![Screenshot (15)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/b7c67afc-9dfe-460a-8189-2caeaa2199d2)
+3.Exam 1 & 2 score graph :
+![Screenshot (16)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/9d41d30c-3de6-4a61-90e5-ecc2fc1c51a6)
+4.Sigmoid graph :
+![Screenshot (17)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/e7ce2d86-e0d2-4470-b67c-1c2284cba4cc)
+5.J and grad value with array[0,0,0] :
+![Screenshot (18)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/183b5f12-9fac-4183-829b-a85b0b9ee5ba)
+6.J and grad value with array[-24,0.2,0.2] :
+![Screenshot (19)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/a56706e3-a938-413f-a268-06bf82b030b8)
+7.res.function & res.x value :
+![Screenshot (20)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/cb6692a2-3cc5-4e0f-aea6-2b4495c13366)
+8.Decision Boundary graph :
+![Screenshot (21)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/404970a0-cacc-48c3-a5c7-30db5893fa3d)
+9.probability value :
+![Screenshot (22)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/2c1bac57-410b-484f-a002-2768b4e08c12)
+10.Mean prediction value :
+![Screenshot (23)](https://github.com/Manjupriya1207/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113583090/22179a38-f6f0-4fa9-81b7-bc4bea754aad)
 
 
 
